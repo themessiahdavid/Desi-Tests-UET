@@ -28,6 +28,7 @@ All tests use a common fiducial cosmology: Omega_m = 0.31, Omega_Lambda = 0.69, 
 | 14 | [14-al-h0-bias.md](14-al-h0-bias.md) | A_L — H0 Degeneracy | A_L pathway shifts H0 DOWNWARD by 0.12 km/s/Mpc (wrong direction). Updated UET H0 = 68.2 — gap remains 4.8σ. All 9 mechanisms exhausted. |
 | 15 | [15-dark-sector-thermal-history.md](15-dark-sector-thermal-history.md) | Dark Sector Thermal History | Genesis derives T_D/T_SM = 0.332. Contains factor-of-2 error in ΔNeff (used g_i instead of g_i/2). SUPERSEDED by Test 16. |
 | 16 | [16-h0-narrow-prediction.md](16-h0-narrow-prediction.md) | H0 Narrow-Band Prediction | CORRECTED: ΔNeff = 0.107 (not 0.214). H0 = 68.34 ± 0.06 km/s/Mpc. Passes all Neff bounds. Consistent with CMB/BAO. 4.7σ from SH0ES. |
+| 17 | [17-wormhole-throat-search.md](17-wormhole-throat-search.md) | Wormhole Throat Search (LIGO O3) | Searched real LIGO O3b data (H1+L1) for throat oscillations. 11 coherent candidates — all instrumental (violin modes + microseismic). Null result sets first upper limits on throat GW emission. |
 
 ---
 
@@ -74,3 +75,4 @@ All referenced image files are expected to reside in the same directory as these
 - `uet_al_h0_bias.png` (Test 14)
 - `uet_thermal_history.png` (Test 15)
 - `uet_h0_narrow_prediction.png` (Test 16)
+- `uet_wormhole_search.png` (Test 17)
